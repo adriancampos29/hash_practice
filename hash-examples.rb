@@ -5,3 +5,7 @@ car_model = {
 animal_model = {
   "name" => 'Penguin'
 }
+
+customer_model = {
+  "name" => 'Greg'
+}
